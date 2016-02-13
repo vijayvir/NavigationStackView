@@ -18,6 +18,8 @@
 		11F842461C66FFB6008EA716 /* bike.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 11F842421C66FFB6008EA716 /* bike.jpeg */; };
 		11F842471C66FFB6008EA716 /* mushroom_water.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11F842431C66FFB6008EA716 /* mushroom_water.jpg */; };
 		11F842481C66FFB6008EA716 /* winter_time.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11F842441C66FFB6008EA716 /* winter_time.jpg */; };
+		11F971661C6F7E29005C838B /* Demo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F971651C6F7E29005C838B /* Demo2.png */; };
+		11F971681C6F7E2C005C838B /* Demo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 11F971671C6F7E2C005C838B /* Demo1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		11F842421C66FFB6008EA716 /* bike.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bike.jpeg; sourceTree = "<group>"; };
 		11F842431C66FFB6008EA716 /* mushroom_water.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mushroom_water.jpg; sourceTree = "<group>"; };
 		11F842441C66FFB6008EA716 /* winter_time.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = winter_time.jpg; sourceTree = "<group>"; };
+		11F971651C6F7E29005C838B /* Demo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Demo2.png; sourceTree = "<group>"; };
+		11F971671C6F7E2C005C838B /* Demo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Demo1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +108,8 @@
 		11F842401C66FFA9008EA716 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				11F971671C6F7E2C005C838B /* Demo1.png */,
+				11F971651C6F7E29005C838B /* Demo2.png */,
 				11F842411C66FFB6008EA716 /* girl2.jpeg */,
 				11F842421C66FFB6008EA716 /* bike.jpeg */,
 				11F842431C66FFB6008EA716 /* mushroom_water.jpg */,
@@ -173,7 +179,9 @@
 				11F842481C66FFB6008EA716 /* winter_time.jpg in Resources */,
 				11F842351C66FF69008EA716 /* LaunchScreen.storyboard in Resources */,
 				11F842321C66FF69008EA716 /* Assets.xcassets in Resources */,
+				11F971661C6F7E29005C838B /* Demo2.png in Resources */,
 				11F842461C66FFB6008EA716 /* bike.jpeg in Resources */,
+				11F971681C6F7E2C005C838B /* Demo1.png in Resources */,
 				11F842471C66FFB6008EA716 /* mushroom_water.jpg in Resources */,
 				11F842451C66FFB6008EA716 /* girl2.jpeg in Resources */,
 				11F842301C66FF69008EA716 /* Main.storyboard in Resources */,
@@ -337,6 +345,7 @@
 				11F8423B1C66FF69008EA716 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
