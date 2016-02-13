@@ -7,9 +7,12 @@ Features
 * Easy to see Previous View on Tap Guesture on button. 
 * Easy to pop to ViewController on Click that button 
 * Easy To 
+
+### Here is code  .. 
 ```javascript
  // Just change navigation Controller Class To LeoCustomNavigationController in NIb(Or Storyboard or by hand  )
 ```
+that's it .. 
 
 ## Navigation Stack Of View Controller
 
